@@ -1,0 +1,121 @@
+product_id,product_name,category,subcategory,unit_price,cost_per_unit
+PROD-0001,Atlas Wireless Mouse,Electronics,Accessories,101.47,54.81
+PROD-0002,Northwind Mechanical Keyboard,Electronics,Accessories,124.53,61.17
+PROD-0003,Summit USB Hub,Electronics,Accessories,81.36,51.94
+PROD-0004,Vista Laptop Stand,Electronics,Accessories,350.21,224.55
+PROD-0005,Pioneer Webcam,Electronics,Accessories,34.21,23.17
+PROD-0006,Cedar Bluetooth Speaker,Electronics,Audio,149.77,72.45
+PROD-0007,Harbor Noise Cancelling Headset,Electronics,Audio,117.78,102.71
+PROD-0008,Lumen Studio Earbuds,Electronics,Audio,224.41,142.74
+PROD-0009,Nova Sound Bar,Electronics,Audio,122.59,87.97
+PROD-0010,Apex Conference Mic,Electronics,Audio,30.5,17.24
+PROD-0011,Evergreen Portable SSD,Electronics,Computing,199.78,130.76
+PROD-0012,Aurora 27 Inch Monitor,Electronics,Computing,118.44,68.71
+PROD-0013,Atlas Mini Projector,Electronics,Computing,341.17,169.34
+PROD-0014,Northwind Router,Electronics,Computing,22.81,20.87
+PROD-0015,Summit Graphics Tablet,Electronics,Computing,412.99,204.01
+PROD-0016,Vista Phone Charger,Electronics,Mobile,349.12,194.38
+PROD-0017,Pioneer Tablet Cover,Electronics,Mobile,271.38,170.32
+PROD-0018,Cedar Power Bank,Electronics,Mobile,252.09,132.93
+PROD-0019,Harbor Smart Watch Band,Electronics,Mobile,344.72,160.53
+PROD-0020,Lumen Wireless Dock,Electronics,Mobile,43.92,30.51
+PROD-0021,Nova Standing Desk,Furniture,Office,321.01,273.37
+PROD-0022,Apex Executive Desk,Furniture,Office,618.78,418.07
+PROD-0023,Evergreen Bookshelf,Furniture,Office,248.85,117.23
+PROD-0024,Aurora Printer Cabinet,Furniture,Office,332.34,167.39
+PROD-0025,Atlas Meeting Table,Furniture,Office,405.16,272.93
+PROD-0026,Northwind Ergonomic Chair,Furniture,Seating,289.77,135.52
+PROD-0027,Summit Guest Chair,Furniture,Seating,475.67,240.18
+PROD-0028,Vista Stool,Furniture,Seating,173.49,148.65
+PROD-0029,Pioneer Lounge Chair,Furniture,Seating,215.51,148.64
+PROD-0030,Cedar Drafting Chair,Furniture,Seating,57.35,35.61
+PROD-0031,Harbor File Cabinet,Furniture,Storage,193.53,103.87
+PROD-0032,Lumen Storage Bench,Furniture,Storage,300.73,181.39
+PROD-0033,Nova Drawer Unit,Furniture,Storage,74.33,39.6
+PROD-0034,Apex Shelf Rack,Furniture,Storage,123.52,63.22
+PROD-0035,Evergreen Closet Organizer,Furniture,Storage,605.6,537.36
+PROD-0036,Aurora Desk Lamp,Furniture,Decor,441.84,295.4
+PROD-0037,Atlas Wall Clock,Furniture,Decor,547.68,392.82
+PROD-0038,Northwind Floor Lamp,Furniture,Decor,539.34,298.45
+PROD-0039,Summit Planter Stand,Furniture,Decor,386.21,226.33
+PROD-0040,Vista Mirror,Furniture,Decor,623.68,368.36
+PROD-0041,Pioneer Notebook Pack,Office Supplies,Paper,37.4,18.95
+PROD-0042,Cedar Copy Paper Box,Office Supplies,Paper,31.42,16.24
+PROD-0043,Harbor Sticky Notes,Office Supplies,Paper,81.04,53.68
+PROD-0044,Lumen Sketch Pad,Office Supplies,Paper,9.04,6.49
+PROD-0045,Nova Shipping Labels,Office Supplies,Paper,49.53,32.66
+PROD-0046,Apex Gel Pen Set,Office Supplies,Writing,89.97,64.17
+PROD-0047,Evergreen Marker Kit,Office Supplies,Writing,12.61,7.95
+PROD-0048,Aurora Mechanical Pencil,Office Supplies,Writing,26.92,18.1
+PROD-0049,Atlas Highlighter Pack,Office Supplies,Writing,82.88,39.33
+PROD-0050,Northwind Correction Tape,Office Supplies,Writing,89.69,46.37
+PROD-0051,Summit Binder Set,Office Supplies,Organization,76.8,51.25
+PROD-0052,Vista Document Tray,Office Supplies,Organization,34.51,23.4
+PROD-0053,Pioneer Desk Organizer,Office Supplies,Organization,76.69,38.79
+PROD-0054,Cedar Label Maker,Office Supplies,Organization,54.96,36.8
+PROD-0055,Harbor Planner,Office Supplies,Organization,64.0,44.65
+PROD-0056,Lumen Packing Tape,Office Supplies,Mailroom,6.43,4.13
+PROD-0057,Nova Bubble Mailer,Office Supplies,Mailroom,85.49,51.85
+PROD-0058,Apex Shipping Scale,Office Supplies,Mailroom,52.43,26.68
+PROD-0059,Evergreen Envelope Box,Office Supplies,Mailroom,88.97,61.32
+PROD-0060,Aurora Stapler,Office Supplies,Mailroom,46.33,25.03
+PROD-0061,Atlas Blender,Home & Kitchen,Appliances,132.61,64.11
+PROD-0062,Northwind Coffee Maker,Home & Kitchen,Appliances,68.16,35.23
+PROD-0063,Summit Air Fryer,Home & Kitchen,Appliances,141.61,65.17
+PROD-0064,Vista Electric Kettle,Home & Kitchen,Appliances,239.47,122.7
+PROD-0065,Pioneer Rice Cooker,Home & Kitchen,Appliances,42.62,27.55
+PROD-0066,Cedar Dinnerware Set,Home & Kitchen,Dining,239.7,162.88
+PROD-0067,Harbor Glassware Set,Home & Kitchen,Dining,90.9,42.33
+PROD-0068,Lumen Cutlery Tray,Home & Kitchen,Dining,156.65,109.42
+PROD-0069,Nova Serving Bowl,Home & Kitchen,Dining,203.59,138.46
+PROD-0070,Apex Water Pitcher,Home & Kitchen,Dining,225.17,159.81
+PROD-0071,Evergreen Food Container Set,Home & Kitchen,Storage,103.4,72.89
+PROD-0072,Aurora Pantry Bin,Home & Kitchen,Storage,108.9,52.95
+PROD-0073,Atlas Spice Rack,Home & Kitchen,Storage,85.44,42.33
+PROD-0074,Northwind Utility Cart,Home & Kitchen,Storage,49.38,34.89
+PROD-0075,Summit Vacuum Canister,Home & Kitchen,Storage,207.96,147.6
+PROD-0076,Vista Throw Blanket,Home & Kitchen,Decor,172.3,87.06
+PROD-0077,Pioneer Candle Set,Home & Kitchen,Decor,252.19,161.48
+PROD-0078,Cedar Wall Art,Home & Kitchen,Decor,242.21,160.98
+PROD-0079,Harbor Area Rug,Home & Kitchen,Decor,65.81,40.35
+PROD-0080,Lumen Table Runner,Home & Kitchen,Decor,53.84,29.06
+PROD-0081,Nova Yoga Mat,Sports & Outdoors,Fitness,167.73,82.71
+PROD-0082,Apex Resistance Bands,Sports & Outdoors,Fitness,177.09,125.15
+PROD-0083,Evergreen Dumbbell Set,Sports & Outdoors,Fitness,228.1,128.15
+PROD-0084,Aurora Foam Roller,Sports & Outdoors,Fitness,238.67,169.68
+PROD-0085,Atlas Jump Rope,Sports & Outdoors,Fitness,15.51,9.56
+PROD-0086,Northwind Duffel Bag,Sports & Outdoors,Travel,221.68,157.74
+PROD-0087,Summit Travel Mug,Sports & Outdoors,Travel,59.25,35.97
+PROD-0088,Vista Packing Cube Set,Sports & Outdoors,Travel,225.31,111.88
+PROD-0089,Pioneer Cooler Bag,Sports & Outdoors,Travel,180.92,94.42
+PROD-0090,Cedar Carry-On Scale,Sports & Outdoors,Travel,235.91,118.82
+PROD-0091,Harbor Camping Lantern,Sports & Outdoors,Outdoor Gear,213.39,103.08
+PROD-0092,Lumen Folding Chair,Sports & Outdoors,Outdoor Gear,172.48,108.0
+PROD-0093,Nova Picnic Mat,Sports & Outdoors,Outdoor Gear,213.7,123.12
+PROD-0094,Apex Insulated Bottle,Sports & Outdoors,Outdoor Gear,69.53,36.49
+PROD-0095,Evergreen Trail Backpack,Sports & Outdoors,Outdoor Gear,23.73,12.5
+PROD-0096,Aurora Bike Helmet,Sports & Outdoors,Cycling,33.06,15.22
+PROD-0097,Atlas Water Bottle Cage,Sports & Outdoors,Cycling,97.54,63.45
+PROD-0098,Northwind Phone Mount,Sports & Outdoors,Cycling,232.83,160.65
+PROD-0099,Summit Repair Kit,Sports & Outdoors,Cycling,122.4,68.36
+PROD-0100,Vista LED Bike Light,Sports & Outdoors,Cycling,134.68,65.5
+PROD-0101,Pioneer Performance Tee,Apparel,Athleisure,92.55,63.36
+PROD-0102,Cedar Training Hoodie,Apparel,Athleisure,121.36,77.51
+PROD-0103,Harbor Jogger Pants,Apparel,Athleisure,39.33,18.85
+PROD-0104,Lumen Sports Bra,Apparel,Athleisure,154.09,82.7
+PROD-0105,Nova Zip Jacket,Apparel,Athleisure,65.54,46.37
+PROD-0106,Apex Baseball Cap,Apparel,Accessories,24.47,12.34
+PROD-0107,Evergreen Canvas Tote,Apparel,Accessories,75.08,48.83
+PROD-0108,Aurora Running Socks,Apparel,Accessories,103.9,72.06
+PROD-0109,Atlas Leather Belt,Apparel,Accessories,27.64,16.98
+PROD-0110,Northwind Winter Scarf,Apparel,Accessories,115.09,67.39
+PROD-0111,Summit Rain Jacket,Apparel,Outerwear,17.21,12.13
+PROD-0112,Vista Puffer Vest,Apparel,Outerwear,39.72,27.46
+PROD-0113,Pioneer Fleece Pullover,Apparel,Outerwear,38.39,18.67
+PROD-0114,Cedar Windbreaker,Apparel,Outerwear,46.53,23.7
+PROD-0115,Harbor Softshell Coat,Apparel,Outerwear,129.13,83.64
+PROD-0116,Lumen Running Shoes,Apparel,Footwear,134.64,71.22
+PROD-0117,Nova Walking Sneakers,Apparel,Footwear,59.3,30.94
+PROD-0118,Apex Slip-On Shoes,Apparel,Footwear,20.34,12.38
+PROD-0119,Evergreen Trail Shoes,Apparel,Footwear,153.1,76.54
+PROD-0120,Aurora Indoor Slippers,Apparel,Footwear,72.62,41.48

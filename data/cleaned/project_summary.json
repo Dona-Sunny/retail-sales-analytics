@@ -1,0 +1,34 @@
+{
+  "row_counts": {
+    "raw_transactions": 5535,
+    "cleaned_transactions": 5491,
+    "customers": 615,
+    "products": 120,
+    "orders": 2598
+  },
+  "date_range": {
+    "start": "2024-01-01",
+    "end": "2025-12-31"
+  },
+  "kpis": {
+    "total_revenue": 2427613.82,
+    "total_profit": 847439.22,
+    "profit_margin_percentage": 34.91,
+    "average_order_value": 934.42,
+    "units_sold": 16759
+  },
+  "highlights": {
+    "top_category": "Furniture",
+    "top_region": "Central",
+    "top_customer": "Layla Lee",
+    "monthly_peak": "2025-02",
+    "loss_making_products": 5
+  },
+  "data_quality": {
+    "initial_rows": 5535,
+    "rows_removed_missing_keys_or_invalid_dates": 20,
+    "duplicate_order_product_rows_removed": 24,
+    "rows_removed_non_positive_values": 0,
+    "final_rows": 5491
+  }
+}

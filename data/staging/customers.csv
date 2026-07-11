@@ -1,0 +1,616 @@
+customer_id,customer_name,customer_segment,city,province,region
+CUST-0001,Ella Baker,Consumer,Calgary,Alberta,West
+CUST-0002,Emily Davis,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0003,Olivia Brown,Consumer,Toronto,Ontario,Central
+CUST-0004,Thomas Baker,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0005,William Roberts,Corporate,Hamilton,Ontario,Central
+CUST-0006,Aiden Garcia,Consumer,Calgary,Alberta,West
+CUST-0007,Ethan Harris,Consumer,Edmonton,Alberta,West
+CUST-0008,Mia Davis,Corporate,Quebec City,Quebec,East
+CUST-0009,Ava Smith,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0010,Mia Clark,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0011,Mason Young,Consumer,Hamilton,Ontario,Central
+CUST-0012,Jack Lee,Small Business,Ottawa,Ontario,Central
+CUST-0013,Mia King,Home Office,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0014,Grace Nguyen,Corporate,Quebec City,Quebec,East
+CUST-0015,Charlotte Garcia,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0016,Zoe Hill,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0017,Benjamin Hill,Home Office,Vancouver,British Columbia,West
+CUST-0018,Nathan King,Small Business,Ottawa,Ontario,Central
+CUST-0019,Lily Harris,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0020,Scarlett Foster,Consumer,Montreal,Quebec,East
+CUST-0021,Zoe White,Consumer,Montreal,Quebec,East
+CUST-0022,Nathan Nguyen,Corporate,Hamilton,Ontario,Central
+CUST-0023,Chloe Campbell,Consumer,Vancouver,British Columbia,West
+CUST-0024,Grace Scott,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0025,Scarlett Walker,Small Business,Montreal,Quebec,East
+CUST-0026,Aiden Edwards,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0027,Logan Edwards,Consumer,Montreal,Quebec,East
+CUST-0028,Aiden Johnson,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0029,Daniel Lewis,Corporate,Vancouver,British Columbia,West
+CUST-0030,Henry Foster,Corporate,Quebec City,Quebec,East
+CUST-0031,Victoria Anderson,Corporate,Winnipeg,Manitoba,Prairies
+CUST-0033,Jackson Young,Home Office,Ottawa,Ontario,Central
+CUST-0034,Charlotte White,Consumer,Edmonton,Alberta,West
+CUST-0035,Sofia Wilson,Corporate,Mississauga,Ontario,Central
+CUST-0036,Olivia Harris,Home Office,Victoria,British Columbia,West
+CUST-0037,Henry Lewis,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0038,Owen Walker,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0039,Charlotte Mitchell,Corporate,Toronto,Ontario,Central
+CUST-0040,Jack Anderson,Corporate,Ottawa,Ontario,Central
+CUST-0041,Jack Carter,Home Office,Victoria,British Columbia,West
+CUST-0042,Charlotte Thompson,Corporate,Hamilton,Ontario,Central
+CUST-0043,Isla White,Corporate,Mississauga,Ontario,Central
+CUST-0044,Jackson Taylor,Consumer,Edmonton,Alberta,West
+CUST-0045,Daniel Scott,Consumer,Quebec City,Quebec,East
+CUST-0046,Benjamin Davis,Home Office,Toronto,Ontario,Central
+CUST-0047,Daniel Jackson,Corporate,Hamilton,Ontario,Central
+CUST-0048,Emily Scott,Corporate,Mississauga,Ontario,Central
+CUST-0049,Charlotte Singh,Consumer,Edmonton,Alberta,West
+CUST-0050,William Anderson,Consumer,Ottawa,Ontario,Central
+CUST-0051,Sophia Taylor,Small Business,Hamilton,Ontario,Central
+CUST-0052,Grace Parker,Consumer,Toronto,Ontario,Central
+CUST-0053,Scarlett Lee,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0054,Zoe Thomas,Consumer,Mississauga,Ontario,Central
+CUST-0055,Benjamin White,Consumer,Toronto,Ontario,Central
+CUST-0056,Sofia Thompson,Consumer,Victoria,British Columbia,West
+CUST-0057,Thomas Clark,Consumer,Vancouver,British Columbia,West
+CUST-0058,Charlotte Jackson,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0059,Jackson Brown,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0060,Victoria Martin,Consumer,Victoria,British Columbia,West
+CUST-0061,Lily Jackson,Consumer,Montreal,Quebec,East
+CUST-0062,Liam Smith,Consumer,Quebec City,Quebec,East
+CUST-0063,Daniel Carter,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0064,Emily Moore,Small Business,Victoria,British Columbia,West
+CUST-0065,Mason Lee,Home Office,Mississauga,Ontario,Central
+CUST-0066,Liam Walker,Home Office,Toronto,Ontario,Central
+CUST-0067,Liam Davis,Consumer,Victoria,British Columbia,West
+CUST-0068,Daniel Wilson,Consumer,Mississauga,Ontario,Central
+CUST-0069,Isla Mitchell,Corporate,Hamilton,Ontario,Central
+CUST-0070,James Thompson,Small Business,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0071,Benjamin Clark,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0072,Ava Anderson,Corporate,Quebec City,Quebec,East
+CUST-0073,James Garcia,Corporate,Calgary,Alberta,West
+CUST-0074,Olivia Wilson,Consumer,Toronto,Ontario,Central
+CUST-0075,Ethan White,Corporate,Toronto,Ontario,Central
+CUST-0076,Ethan Scott,Consumer,Mississauga,Ontario,Central
+CUST-0077,Ava Moore,Consumer,Hamilton,Ontario,Central
+CUST-0078,Daniel Moore,Small Business,Edmonton,Alberta,West
+CUST-0079,Noah Foster,Small Business,Victoria,British Columbia,West
+CUST-0080,Harper Roberts,Home Office,Toronto,Ontario,Central
+CUST-0081,Logan Roberts,Small Business,Edmonton,Alberta,West
+CUST-0082,Jackson King,Consumer,Mississauga,Ontario,Central
+CUST-0083,Ava Taylor,Home Office,Hamilton,Ontario,Central
+CUST-0084,Scarlett Moore,Consumer,Montreal,Quebec,East
+CUST-0085,Henry Patel,Small Business,Quebec City,Quebec,East
+CUST-0086,Layla Moore,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0087,William Mitchell,Small Business,Toronto,Ontario,Central
+CUST-0088,James Green,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0089,Olivia Moore,Consumer,Calgary,Alberta,West
+CUST-0090,Thomas Edwards,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0091,Ava Scott,Small Business,Toronto,Ontario,Central
+CUST-0092,William Hall,Consumer,Quebec City,Quebec,East
+CUST-0093,Logan Martin,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0094,Liam Thompson,Consumer,Montreal,Quebec,East
+CUST-0095,Nathan Lee,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0096,Mia Green,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0097,Zoe Anderson,Consumer,Montreal,Quebec,East
+CUST-0098,Lily Smith,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0099,Thomas Taylor,Corporate,Edmonton,Alberta,West
+CUST-0100,Leah Thompson,Corporate,Saskatoon,Saskatchewan,Prairies
+CUST-0101,Chloe Jackson,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0102,Amelia Brown,Corporate,Hamilton,Ontario,Central
+CUST-0103,Charlotte Smith,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0104,Mia Thomas,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0105,Aiden Davis,Consumer,Edmonton,Alberta,West
+CUST-0106,Victoria Smith,Consumer,Toronto,Ontario,Central
+CUST-0107,Ella Smith,Corporate,Mississauga,Ontario,Central
+CUST-0108,Zoe Martin,Corporate,Edmonton,Alberta,West
+CUST-0109,Thomas Scott,Corporate,Vancouver,British Columbia,West
+CUST-0110,Grace Taylor,Home Office,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0111,Layla Walker,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0112,Owen Carter,Consumer,Calgary,Alberta,West
+CUST-0113,William Clark,Consumer,Mississauga,Ontario,Central
+CUST-0114,Charlotte Roberts,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0115,Noah Campbell,Consumer,Hamilton,Ontario,Central
+CUST-0116,Amelia Young,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0117,Lucas Lewis,Home Office,Edmonton,Alberta,West
+CUST-0118,Noah White,Home Office,Calgary,Alberta,West
+CUST-0119,Jack Thomas,Consumer,Hamilton,Ontario,Central
+CUST-0120,Amelia Parker,Corporate,Quebec City,Quebec,East
+CUST-0121,Nathan Garcia,Small Business,Vancouver,British Columbia,West
+CUST-0122,William Baker,Corporate,Victoria,British Columbia,West
+CUST-0123,Amelia Clark,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0124,Scarlett Green,Consumer,Toronto,Ontario,Central
+CUST-0125,Isla Smith,Home Office,Quebec City,Quebec,East
+CUST-0126,Noah Johnson,Corporate,Vancouver,British Columbia,West
+CUST-0127,William Campbell,Corporate,Quebec City,Quebec,East
+CUST-0128,Ava Baker,Home Office,Hamilton,Ontario,Central
+CUST-0129,Ethan Jackson,Corporate,Mississauga,Ontario,Central
+CUST-0130,James Nguyen,Corporate,Mississauga,Ontario,Central
+CUST-0131,Ella Garcia,Corporate,Montreal,Quebec,East
+CUST-0132,Liam Young,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0133,Henry Carter,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0134,Jackson Davis,Home Office,Calgary,Alberta,West
+CUST-0135,Ella Young,Consumer,Edmonton,Alberta,West
+CUST-0136,Olivia Nguyen,Corporate,Ottawa,Ontario,Central
+CUST-0137,Aiden Roberts,Consumer,Vancouver,British Columbia,West
+CUST-0138,Mason Smith,Consumer,Calgary,Alberta,West
+CUST-0139,Victoria King,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0140,Scarlett Scott,Consumer,Vancouver,British Columbia,West
+CUST-0141,Jackson Clark,Consumer,Montreal,Quebec,East
+CUST-0142,Scarlett Young,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0143,Amelia Thomas,Consumer,Vancouver,British Columbia,West
+CUST-0144,Isla Moore,Consumer,Edmonton,Alberta,West
+CUST-0145,Layla Wilson,Small Business,Toronto,Ontario,Central
+CUST-0146,Noah Thomas,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0147,Sophia Singh,Consumer,Edmonton,Alberta,West
+CUST-0148,Jack Patel,Consumer,Calgary,Alberta,West
+CUST-0149,Mason Taylor,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0150,Zoe Mitchell,Corporate,Quebec City,Quebec,East
+CUST-0151,Liam Johnson,Home Office,Hamilton,Ontario,Central
+CUST-0152,Lily Edwards,Small Business,Calgary,Alberta,West
+CUST-0153,Harper Hall,Consumer,Hamilton,Ontario,Central
+CUST-0154,Victoria Lee,Consumer,Ottawa,Ontario,Central
+CUST-0155,Mason Green,Home Office,Montreal,Quebec,East
+CUST-0156,Emily King,Corporate,Toronto,Ontario,Central
+CUST-0157,Emily Thomas,Corporate,Ottawa,Ontario,Central
+CUST-0158,Sofia Taylor,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0159,Benjamin Johnson,Consumer,Vancouver,British Columbia,West
+CUST-0160,Charlotte Patel,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0161,Benjamin Foster,Small Business,Mississauga,Ontario,Central
+CUST-0162,Ella Wilson,Corporate,Edmonton,Alberta,West
+CUST-0163,Jack Walker,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0164,Liam Scott,Corporate,Montreal,Quebec,East
+CUST-0165,Daniel Harris,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0166,Chloe Garcia,Corporate,Hamilton,Ontario,Central
+CUST-0167,Grace Anderson,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0168,Sofia Lee,Consumer,Toronto,Ontario,Central
+CUST-0169,Leah Smith,Consumer,Ottawa,Ontario,Central
+CUST-0170,James Hall,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0171,Ethan King,Consumer,Vancouver,British Columbia,West
+CUST-0172,Grace Lewis,Small Business,Winnipeg,Manitoba,Prairies
+CUST-0173,Owen Edwards,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0174,Thomas White,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0175,Lily Johnson,Consumer,Toronto,Ontario,Central
+CUST-0176,Amelia King,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0177,Harper Taylor,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0178,Layla Green,Corporate,Winnipeg,Manitoba,Prairies
+CUST-0179,Sophia Clark,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0180,Lily Davis,Consumer,Vancouver,British Columbia,West
+CUST-0181,Sophia Lee,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0182,Zoe Brown,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0183,Nathan Thompson,Corporate,Vancouver,British Columbia,West
+CUST-0184,William Smith,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0185,Mason Thomas,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0186,Isla King,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0187,Owen Thomas,Small Business,Ottawa,Ontario,Central
+CUST-0188,Jackson Garcia,Consumer,Montreal,Quebec,East
+CUST-0189,Noah Clark,Corporate,Hamilton,Ontario,Central
+CUST-0190,Ella Foster,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0191,Layla Roberts,Small Business,Vancouver,British Columbia,West
+CUST-0192,Jackson Smith,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0193,Thomas Evans,Consumer,Vancouver,British Columbia,West
+CUST-0194,Noah Mitchell,Consumer,Victoria,British Columbia,West
+CUST-0195,Aiden Lee,Home Office,Calgary,Alberta,West
+CUST-0196,Sophia Foster,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0197,Logan Wilson,Consumer,Edmonton,Alberta,West
+CUST-0198,Lily Hall,Corporate,Calgary,Alberta,West
+CUST-0199,Jack Roberts,Home Office,Toronto,Ontario,Central
+CUST-0200,Mia Parker,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0201,Sophia Brown,Small Business,Mississauga,Ontario,Central
+CUST-0202,Logan Davis,Consumer,Vancouver,British Columbia,West
+CUST-0203,Scarlett Anderson,Consumer,Calgary,Alberta,West
+CUST-0204,Ethan Carter,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0205,Nathan Clark,Home Office,Vancouver,British Columbia,West
+CUST-0206,William Parker,Home Office,Quebec City,Quebec,East
+CUST-0207,Sophia White,Consumer,Toronto,Ontario,Central
+CUST-0208,Leah Hill,Consumer,Calgary,Alberta,West
+CUST-0209,Daniel Davis,Home Office,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0210,Lily Campbell,Consumer,Montreal,Quebec,East
+CUST-0211,Victoria Roberts,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0212,Grace Green,Small Business,Ottawa,Ontario,Central
+CUST-0213,Jackson Thomas,Consumer,Victoria,British Columbia,West
+CUST-0214,Scarlett Johnson,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0215,William Garcia,Small Business,Ottawa,Ontario,Central
+CUST-0216,James Smith,Consumer,Vancouver,British Columbia,West
+CUST-0217,Mia Taylor,Consumer,Ottawa,Ontario,Central
+CUST-0218,Lucas Young,Consumer,Montreal,Quebec,East
+CUST-0219,Aiden Young,Home Office,Vancouver,British Columbia,West
+CUST-0220,Benjamin Thomas,Home Office,Vancouver,British Columbia,West
+CUST-0221,Jack Moore,Consumer,Hamilton,Ontario,Central
+CUST-0222,James Evans,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0223,Ava Lewis,Consumer,Edmonton,Alberta,West
+CUST-0224,Mason Evans,Consumer,Ottawa,Ontario,Central
+CUST-0225,Noah Green,Home Office,Hamilton,Ontario,Central
+CUST-0226,Mason Walker,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0227,James Taylor,Home Office,Edmonton,Alberta,West
+CUST-0228,Scarlett Carter,Small Business,Mississauga,Ontario,Central
+CUST-0229,Nathan Wilson,Home Office,Quebec City,Quebec,East
+CUST-0230,William Edwards,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0231,James Parker,Small Business,Vancouver,British Columbia,West
+CUST-0232,Daniel Hill,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0233,Scarlett Lewis,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0234,Ava Brown,Consumer,Montreal,Quebec,East
+CUST-0235,Jackson White,Corporate,Mississauga,Ontario,Central
+CUST-0236,Ethan Roberts,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0237,Noah King,Consumer,Toronto,Ontario,Central
+CUST-0238,Owen Singh,Consumer,Hamilton,Ontario,Central
+CUST-0239,Mason White,Consumer,Victoria,British Columbia,West
+CUST-0241,Isla Baker,Consumer,Toronto,Ontario,Central
+CUST-0242,Emily Young,Home Office,Hamilton,Ontario,Central
+CUST-0243,Zoe Harris,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0244,Jack Mitchell,Home Office,Edmonton,Alberta,West
+CUST-0245,Aiden King,Small Business,Vancouver,British Columbia,West
+CUST-0246,William Johnson,Consumer,Edmonton,Alberta,West
+CUST-0247,Amelia Evans,Home Office,Toronto,Ontario,Central
+CUST-0248,Jackson Martin,Consumer,Toronto,Ontario,Central
+CUST-0249,Emily Roberts,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0250,Sofia Singh,Corporate,Edmonton,Alberta,West
+CUST-0251,Daniel Singh,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0252,Ava Walker,Corporate,Montreal,Quebec,East
+CUST-0253,Amelia Campbell,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0254,Daniel Thomas,Consumer,Calgary,Alberta,West
+CUST-0255,Chloe Martin,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0256,Lily Parker,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0257,Daniel Edwards,Corporate,Vancouver,British Columbia,West
+CUST-0258,Olivia Singh,Consumer,Victoria,British Columbia,West
+CUST-0259,Scarlett Patel,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0260,Mason Foster,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0261,Chloe Clark,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0262,Zoe Campbell,Corporate,Winnipeg,Manitoba,Prairies
+CUST-0263,Ella Roberts,Small Business,Quebec City,Quebec,East
+CUST-0264,Olivia Campbell,Consumer,Montreal,Quebec,East
+CUST-0265,Daniel Young,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0266,Sofia Hill,Consumer,Vancouver,British Columbia,West
+CUST-0267,Zoe Nguyen,Corporate,Ottawa,Ontario,Central
+CUST-0268,Zoe Baker,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0269,Layla Baker,Home Office,Mississauga,Ontario,Central
+CUST-0270,Liam Mitchell,Consumer,Quebec City,Quebec,East
+CUST-0271,Ethan Young,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0272,Victoria Harris,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0273,Liam Martin,Corporate,Edmonton,Alberta,West
+CUST-0274,Grace Campbell,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0275,Olivia Thomas,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0276,Isla Thompson,Consumer,Ottawa,Ontario,Central
+CUST-0277,Leah Thomas,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0278,Benjamin Anderson,Small Business,Hamilton,Ontario,Central
+CUST-0279,Emily Johnson,Consumer,Montreal,Quebec,East
+CUST-0280,Sophia Scott,Consumer,Mississauga,Ontario,Central
+CUST-0281,Jack Thompson,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0282,Amelia Smith,Small Business,Victoria,British Columbia,West
+CUST-0283,Olivia Young,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0284,Leah Edwards,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0285,Grace Smith,Small Business,Vancouver,British Columbia,West
+CUST-0286,Chloe Scott,Consumer,Vancouver,British Columbia,West
+CUST-0287,Nathan Walker,Small Business,Ottawa,Ontario,Central
+CUST-0288,Logan Hill,Consumer,Quebec City,Quebec,East
+CUST-0289,Ella Walker,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0290,Lucas Moore,Home Office,Calgary,Alberta,West
+CUST-0291,Ethan Johnson,Corporate,Hamilton,Ontario,Central
+CUST-0292,Charlotte Green,Corporate,Edmonton,Alberta,West
+CUST-0293,Owen Young,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0294,Lily Martin,Consumer,Mississauga,Ontario,Central
+CUST-0295,Owen Lewis,Corporate,Edmonton,Alberta,West
+CUST-0296,Lucas Thompson,Corporate,Ottawa,Ontario,Central
+CUST-0297,Ava Campbell,Consumer,Quebec City,Quebec,East
+CUST-0298,Chloe Thompson,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0299,Ava Singh,Corporate,Victoria,British Columbia,West
+CUST-0300,Lily Taylor,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0301,Owen Davis,Small Business,Edmonton,Alberta,West
+CUST-0302,Harper Brown,Consumer,Hamilton,Ontario,Central
+CUST-0303,Victoria Garcia,Small Business,Quebec City,Quebec,East
+CUST-0304,Mia Roberts,Corporate,Edmonton,Alberta,West
+CUST-0305,Benjamin Mitchell,Consumer,Ottawa,Ontario,Central
+CUST-0306,Mia Lee,Small Business,Montreal,Quebec,East
+CUST-0307,Ethan Mitchell,Corporate,Ottawa,Ontario,Central
+CUST-0308,Nathan Evans,Small Business,Winnipeg,Manitoba,Prairies
+CUST-0309,Liam Wilson,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0310,Emily Walker,Corporate,Ottawa,Ontario,Central
+CUST-0311,Thomas Nguyen,Consumer,Toronto,Ontario,Central
+CUST-0312,Sophia Hall,Consumer,Hamilton,Ontario,Central
+CUST-0313,Leah Davis,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0314,Victoria Brown,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0315,Emily Parker,Consumer,Mississauga,Ontario,Central
+CUST-0316,Grace Singh,Consumer,Toronto,Ontario,Central
+CUST-0317,Jackson Singh,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0318,Owen Hill,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0319,Sofia Hall,Small Business,Quebec City,Quebec,East
+CUST-0320,Owen Smith,Home Office,Edmonton,Alberta,West
+CUST-0321,Thomas Walker,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0322,Benjamin Taylor,Corporate,Vancouver,British Columbia,West
+CUST-0323,Daniel Walker,Consumer,Vancouver,British Columbia,West
+CUST-0324,Grace King,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0325,Olivia Clark,Home Office,Victoria,British Columbia,West
+CUST-0326,Lucas Baker,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0327,Mason Jackson,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0328,Amelia Martin,Home Office,Victoria,British Columbia,West
+CUST-0329,Logan Foster,Consumer,Mississauga,Ontario,Central
+CUST-0330,Sofia Evans,Corporate,Edmonton,Alberta,West
+CUST-0331,Aiden Clark,Consumer,Toronto,Ontario,Central
+CUST-0332,Ethan Wilson,Corporate,Calgary,Alberta,West
+CUST-0333,Ella Lee,Consumer,Hamilton,Ontario,Central
+CUST-0335,Ella Thomas,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0336,Thomas Young,Consumer,Hamilton,Ontario,Central
+CUST-0337,Aiden Moore,Consumer,Hamilton,Ontario,Central
+CUST-0338,Chloe Walker,Small Business,Quebec City,Quebec,East
+CUST-0339,William Thompson,Corporate,Edmonton,Alberta,West
+CUST-0340,Ava Parker,Home Office,Quebec City,Quebec,East
+CUST-0341,Lucas Carter,Home Office,Quebec City,Quebec,East
+CUST-0342,Daniel Mitchell,Consumer,Mississauga,Ontario,Central
+CUST-0343,Logan Green,Corporate,Vancouver,British Columbia,West
+CUST-0344,Sofia Green,Consumer,Edmonton,Alberta,West
+CUST-0345,Scarlett Brown,Consumer,Montreal,Quebec,East
+CUST-0346,Henry Brown,Corporate,Quebec City,Quebec,East
+CUST-0347,William Taylor,Home Office,Montreal,Quebec,East
+CUST-0348,Henry Lee,Small Business,Quebec City,Quebec,East
+CUST-0349,Logan King,Consumer,Ottawa,Ontario,Central
+CUST-0350,Nathan Singh,Consumer,Victoria,British Columbia,West
+CUST-0351,Harper Thomas,Consumer,Calgary,Alberta,West
+CUST-0352,Harper White,Consumer,Montreal,Quebec,East
+CUST-0353,Lily Lee,Corporate,Montreal,Quebec,East
+CUST-0354,Olivia Garcia,Consumer,Calgary,Alberta,West
+CUST-0355,Olivia King,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0356,Thomas Garcia,Home Office,Toronto,Ontario,Central
+CUST-0357,Owen Brown,Consumer,Mississauga,Ontario,Central
+CUST-0358,Mason Nguyen,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0359,Ethan Singh,Corporate,Quebec City,Quebec,East
+CUST-0360,Charlotte Young,Consumer,Mississauga,Ontario,Central
+CUST-0361,Lily King,Consumer,Hamilton,Ontario,Central
+CUST-0362,Victoria Parker,Consumer,Victoria,British Columbia,West
+CUST-0363,James Singh,Consumer,Hamilton,Ontario,Central
+CUST-0364,Ella Evans,Corporate,Vancouver,British Columbia,West
+CUST-0365,Owen Clark,Small Business,Edmonton,Alberta,West
+CUST-0366,Lily Moore,Corporate,Calgary,Alberta,West
+CUST-0367,Leah Lewis,Home Office,Vancouver,British Columbia,West
+CUST-0368,Harper Nguyen,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0369,Henry Evans,Consumer,Hamilton,Ontario,Central
+CUST-0370,Zoe Young,Home Office,Quebec City,Quebec,East
+CUST-0371,Zoe Evans,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0372,Nathan Taylor,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0373,Charlotte Evans,Consumer,Quebec City,Quebec,East
+CUST-0374,Lucas Evans,Corporate,Victoria,British Columbia,West
+CUST-0375,Harper Evans,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0376,Benjamin Edwards,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0377,Grace Martin,Consumer,Victoria,British Columbia,West
+CUST-0378,Chloe Johnson,Small Business,Hamilton,Ontario,Central
+CUST-0379,Layla Evans,Corporate,Saskatoon,Saskatchewan,Prairies
+CUST-0380,Grace Foster,Corporate,Mississauga,Ontario,Central
+CUST-0381,Logan Young,Consumer,Toronto,Ontario,Central
+CUST-0382,James Harris,Consumer,Edmonton,Alberta,West
+CUST-0383,William Lee,Corporate,Saskatoon,Saskatchewan,Prairies
+CUST-0384,Nathan Lewis,Home Office,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0385,Noah Taylor,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0386,Ethan Martin,Home Office,Vancouver,British Columbia,West
+CUST-0387,Lucas Patel,Corporate,Mississauga,Ontario,Central
+CUST-0388,Daniel Martin,Consumer,Hamilton,Ontario,Central
+CUST-0389,Owen Jackson,Consumer,Mississauga,Ontario,Central
+CUST-0390,Lily Young,Consumer,Calgary,Alberta,West
+CUST-0391,Grace Thomas,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0392,Liam Thomas,Small Business,Toronto,Ontario,Central
+CUST-0393,Thomas Smith,Corporate,Hamilton,Ontario,Central
+CUST-0394,Benjamin Campbell,Corporate,Montreal,Quebec,East
+CUST-0395,Mason Patel,Consumer,Quebec City,Quebec,East
+CUST-0396,Zoe Hall,Consumer,Quebec City,Quebec,East
+CUST-0397,Mia Thompson,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0398,Daniel Patel,Corporate,Quebec City,Quebec,East
+CUST-0399,Henry Thompson,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0400,Ava Evans,Home Office,Calgary,Alberta,West
+CUST-0401,Ethan Thompson,Small Business,Mississauga,Ontario,Central
+CUST-0402,Lily Garcia,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0403,Thomas Thompson,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0404,Liam Taylor,Consumer,Vancouver,British Columbia,West
+CUST-0405,Liam Baker,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0406,Jack Campbell,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0407,Mia Foster,Consumer,Vancouver,British Columbia,West
+CUST-0408,Ella Hall,Consumer,Toronto,Ontario,Central
+CUST-0409,Isla Roberts,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0410,Benjamin Evans,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0411,Sofia Walker,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0412,Scarlett White,Consumer,Quebec City,Quebec,East
+CUST-0413,Henry Jackson,Consumer,Montreal,Quebec,East
+CUST-0414,Liam Lee,Home Office,Calgary,Alberta,West
+CUST-0415,Sophia Martin,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0416,Layla Lee,Corporate,Ottawa,Ontario,Central
+CUST-0417,Mia Patel,Small Business,Vancouver,British Columbia,West
+CUST-0418,Ethan Lee,Small Business,Toronto,Ontario,Central
+CUST-0419,Chloe Moore,Corporate,Victoria,British Columbia,West
+CUST-0420,Sofia Harris,Consumer,Hamilton,Ontario,Central
+CUST-0421,Zoe King,Corporate,Mississauga,Ontario,Central
+CUST-0422,Jackson Jackson,Small Business,Toronto,Ontario,Central
+CUST-0423,Jack Hill,Consumer,Toronto,Ontario,Central
+CUST-0424,Sofia Davis,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0425,Zoe Garcia,Small Business,Halifax,Nova Scotia,Atlantic
+CUST-0426,Jack White,Small Business,Calgary,Alberta,West
+CUST-0427,Nathan Thomas,Small Business,Mississauga,Ontario,Central
+CUST-0428,Aiden Lewis,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0429,Logan Lee,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0430,Sophia Evans,Corporate,Vancouver,British Columbia,West
+CUST-0431,Logan Garcia,Corporate,Calgary,Alberta,West
+CUST-0432,Harper Anderson,Home Office,Calgary,Alberta,West
+CUST-0433,Henry Green,Small Business,Winnipeg,Manitoba,Prairies
+CUST-0434,Olivia Thompson,Consumer,Quebec City,Quebec,East
+CUST-0435,Daniel Green,Consumer,Mississauga,Ontario,Central
+CUST-0436,Jackson Anderson,Consumer,Montreal,Quebec,East
+CUST-0437,Layla Mitchell,Home Office,Montreal,Quebec,East
+CUST-0438,Grace Patel,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0439,Liam Edwards,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0440,Emily Taylor,Home Office,Mississauga,Ontario,Central
+CUST-0441,Mason Roberts,Small Business,Calgary,Alberta,West
+CUST-0442,William Harris,Home Office,Edmonton,Alberta,West
+CUST-0443,Mason Carter,Consumer,Victoria,British Columbia,West
+CUST-0444,Zoe Thompson,Corporate,Hamilton,Ontario,Central
+CUST-0445,Victoria Singh,Consumer,Ottawa,Ontario,Central
+CUST-0446,Thomas Singh,Corporate,Edmonton,Alberta,West
+CUST-0447,Thomas Roberts,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0448,Amelia Patel,Home Office,Montreal,Quebec,East
+CUST-0449,Charlotte Brown,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0450,Charlotte Taylor,Consumer,Toronto,Ontario,Central
+CUST-0451,Mason Parker,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0452,William Evans,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0453,William Patel,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0454,Amelia Lewis,Home Office,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0455,Olivia White,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0456,Lucas Foster,Small Business,Montreal,Quebec,East
+CUST-0457,Ella Brown,Consumer,Edmonton,Alberta,West
+CUST-0458,Amelia Jackson,Consumer,Hamilton,Ontario,Central
+CUST-0459,Benjamin Jackson,Consumer,Calgary,Alberta,West
+CUST-0460,Isla Campbell,Small Business,Mississauga,Ontario,Central
+CUST-0461,Jack Young,Corporate,Quebec City,Quebec,East
+CUST-0462,Liam Foster,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0463,Liam King,Small Business,Toronto,Ontario,Central
+CUST-0464,Harper Scott,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0465,Lucas Parker,Consumer,Edmonton,Alberta,West
+CUST-0466,Noah Roberts,Consumer,Mississauga,Ontario,Central
+CUST-0467,Jackson Hill,Consumer,Montreal,Quebec,East
+CUST-0468,Scarlett Campbell,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0469,Zoe Walker,Consumer,Mississauga,Ontario,Central
+CUST-0470,Chloe Singh,Consumer,Vancouver,British Columbia,West
+CUST-0471,Henry Campbell,Corporate,Montreal,Quebec,East
+CUST-0472,Ava Carter,Home Office,Hamilton,Ontario,Central
+CUST-0473,Logan Lewis,Consumer,Victoria,British Columbia,West
+CUST-0474,Sofia Jackson,Home Office,Calgary,Alberta,West
+CUST-0475,Nathan Jackson,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0476,Mia Smith,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0477,Thomas Thomas,Home Office,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0478,Sofia Martin,Consumer,Victoria,British Columbia,West
+CUST-0479,Noah Brown,Home Office,Winnipeg,Manitoba,Prairies
+CUST-0480,Amelia Johnson,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0481,Noah Lee,Consumer,Mississauga,Ontario,Central
+CUST-0482,Mia Young,Corporate,Vancouver,British Columbia,West
+CUST-0483,Logan Johnson,Small Business,Edmonton,Alberta,West
+CUST-0484,Sophia Smith,Consumer,Mississauga,Ontario,Central
+CUST-0485,William Thomas,Small Business,Mississauga,Ontario,Central
+CUST-0486,Benjamin Walker,Small Business,Toronto,Ontario,Central
+CUST-0487,Noah Evans,Consumer,Vancouver,British Columbia,West
+CUST-0488,Ethan Anderson,Corporate,Hamilton,Ontario,Central
+CUST-0489,Sophia Baker,Corporate,Toronto,Ontario,Central
+CUST-0491,Leah Baker,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0492,Harper Davis,Corporate,Victoria,British Columbia,West
+CUST-0493,Jackson Hall,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0494,Lucas King,Consumer,Edmonton,Alberta,West
+CUST-0495,Nathan Smith,Small Business,Winnipeg,Manitoba,Prairies
+CUST-0496,Jack Lewis,Corporate,Saskatoon,Saskatchewan,Prairies
+CUST-0497,Ava Clark,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0498,Sofia Campbell,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0499,Chloe Thomas,Corporate,Vancouver,British Columbia,West
+CUST-0500,Ava Hill,Small Business,Hamilton,Ontario,Central
+CUST-0501,Sofia King,Home Office,Toronto,Ontario,Central
+CUST-0502,Layla White,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0503,Lily Baker,Consumer,Hamilton,Ontario,Central
+CUST-0504,Nathan Carter,Corporate,Montreal,Quebec,East
+CUST-0505,Mia White,Home Office,Quebec City,Quebec,East
+CUST-0506,Emily Clark,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0507,Olivia Hill,Consumer,Vancouver,British Columbia,West
+CUST-0508,Nathan Martin,Consumer,Toronto,Ontario,Central
+CUST-0509,Zoe Parker,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0510,Leah Jackson,Consumer,Calgary,Alberta,West
+CUST-0511,Ethan Parker,Consumer,Calgary,Alberta,West
+CUST-0512,Mia Martin,Consumer,Quebec City,Quebec,East
+CUST-0513,Liam Singh,Consumer,Quebec City,Quebec,East
+CUST-0514,Chloe Green,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0515,Daniel Baker,Corporate,Ottawa,Ontario,Central
+CUST-0516,Noah Parker,Home Office,Edmonton,Alberta,West
+CUST-0517,Zoe Jackson,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0518,Mia Garcia,Consumer,Mississauga,Ontario,Central
+CUST-0519,Noah Lewis,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0521,Nathan Mitchell,Consumer,Vancouver,British Columbia,West
+CUST-0522,Logan Singh,Home Office,Quebec City,Quebec,East
+CUST-0523,Emily Lewis,Small Business,Quebec City,Quebec,East
+CUST-0524,Henry Taylor,Small Business,Quebec City,Quebec,East
+CUST-0525,Sophia Young,Consumer,Edmonton,Alberta,West
+CUST-0526,Layla Patel,Small Business,Quebec City,Quebec,East
+CUST-0527,Henry White,Home Office,Mississauga,Ontario,Central
+CUST-0528,Isla Singh,Home Office,Edmonton,Alberta,West
+CUST-0529,Liam Jackson,Consumer,Montreal,Quebec,East
+CUST-0530,Olivia Parker,Small Business,Ottawa,Ontario,Central
+CUST-0531,Sofia Patel,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0532,Ava Nguyen,Corporate,Calgary,Alberta,West
+CUST-0533,Chloe Davis,Corporate,Edmonton,Alberta,West
+CUST-0534,Lucas Garcia,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0535,Olivia Davis,Consumer,Toronto,Ontario,Central
+CUST-0536,Jack Singh,Corporate,Quebec City,Quebec,East
+CUST-0537,Thomas Foster,Corporate,Quebec City,Quebec,East
+CUST-0538,Leah Roberts,Consumer,Victoria,British Columbia,West
+CUST-0539,Ethan Moore,Corporate,Montreal,Quebec,East
+CUST-0540,Isla Walker,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0541,Lily Carter,Home Office,Montreal,Quebec,East
+CUST-0542,Grace Jackson,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0543,Olivia Smith,Corporate,Hamilton,Ontario,Central
+CUST-0544,Nathan Baker,Small Business,Calgary,Alberta,West
+CUST-0545,Owen Scott,Home Office,Halifax,Nova Scotia,Atlantic
+CUST-0546,Daniel White,Consumer,Mississauga,Ontario,Central
+CUST-0547,Scarlett Edwards,Small Business,Montreal,Quebec,East
+CUST-0548,Ella Moore,Corporate,Quebec City,Quebec,East
+CUST-0549,Liam Clark,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0550,Jackson Lewis,Consumer,Ottawa,Ontario,Central
+CUST-0551,Mia Scott,Corporate,Mississauga,Ontario,Central
+CUST-0552,Harper Wilson,Consumer,Mississauga,Ontario,Central
+CUST-0553,Harper Martin,Corporate,Vancouver,British Columbia,West
+CUST-0554,Lucas Anderson,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0555,Mia Wilson,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0556,Sophia Roberts,Corporate,Calgary,Alberta,West
+CUST-0557,Chloe Young,Consumer,Toronto,Ontario,Central
+CUST-0558,Layla Hill,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0559,Sophia Wilson,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0560,James Moore,Consumer,Vancouver,British Columbia,West
+CUST-0561,Ella Jackson,Home Office,Hamilton,Ontario,Central
+CUST-0562,Emily Harris,Home Office,Vancouver,British Columbia,West
+CUST-0563,Lucas White,Corporate,Montreal,Quebec,East
+CUST-0564,Leah Young,Small Business,Montreal,Quebec,East
+CUST-0565,Daniel Evans,Small Business,Edmonton,Alberta,West
+CUST-0566,Emily Jackson,Consumer,Mississauga,Ontario,Central
+CUST-0567,Jackson Patel,Corporate,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0568,Mia Singh,Home Office,Ottawa,Ontario,Central
+CUST-0569,Chloe Patel,Home Office,Fredericton,New Brunswick,Atlantic
+CUST-0570,Nathan Harris,Corporate,Halifax,Nova Scotia,Atlantic
+CUST-0571,Sophia Mitchell,Home Office,Victoria,British Columbia,West
+CUST-0572,Ava Davis,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0573,Olivia Hall,Small Business,Calgary,Alberta,West
+CUST-0574,Liam Garcia,Consumer,Vancouver,British Columbia,West
+CUST-0575,Mason Johnson,Corporate,Ottawa,Ontario,Central
+CUST-0576,Jack Scott,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0577,Aiden Harris,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0578,Owen Anderson,Consumer,Toronto,Ontario,Central
+CUST-0579,Ella Scott,Corporate,Calgary,Alberta,West
+CUST-0580,Jack Parker,Consumer,Ottawa,Ontario,Central
+CUST-0581,Mason Lewis,Home Office,Mississauga,Ontario,Central
+CUST-0582,Emily Foster,Corporate,Ottawa,Ontario,Central
+CUST-0583,Lucas Harris,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0584,Owen Harris,Consumer,Ottawa,Ontario,Central
+CUST-0585,Ella Parker,Consumer,Quebec City,Quebec,East
+CUST-0586,Layla Clark,Corporate,Hamilton,Ontario,Central
+CUST-0587,Liam Harris,Corporate,Fredericton,New Brunswick,Atlantic
+CUST-0588,Sophia Parker,Corporate,Ottawa,Ontario,Central
+CUST-0589,Charlotte Walker,Small Business,Victoria,British Columbia,West
+CUST-0590,Lily Evans,Consumer,Halifax,Nova Scotia,Atlantic
+CUST-0591,William Green,Small Business,Edmonton,Alberta,West
+CUST-0592,Charlotte Baker,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0593,Isla Brown,Small Business,Victoria,British Columbia,West
+CUST-0594,Noah Scott,Consumer,Calgary,Alberta,West
+CUST-0595,William White,Consumer,Winnipeg,Manitoba,Prairies
+CUST-0596,Thomas Harris,Corporate,Edmonton,Alberta,West
+CUST-0597,Jackson Campbell,Small Business,Hamilton,Ontario,Central
+CUST-0598,Benjamin Lewis,Home Office,Saskatoon,Saskatchewan,Prairies
+CUST-0599,Ella Anderson,Home Office,Calgary,Alberta,West
+CUST-0600,Lucas Walker,Consumer,Fredericton,New Brunswick,Atlantic
+CUST-0601,Logan Scott,Consumer,Montreal,Quebec,East
+CUST-0602,Charlotte Thomas,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0603,Grace Johnson,Small Business,Edmonton,Alberta,West
+CUST-0604,Ella Hill,Consumer,Calgary,Alberta,West
+CUST-0605,Aiden Jackson,Consumer,Toronto,Ontario,Central
+CUST-0606,Ethan Green,Corporate,Victoria,British Columbia,West
+CUST-0607,Noah Hill,Consumer,Quebec City,Quebec,East
+CUST-0608,Mason Edwards,Small Business,Fredericton,New Brunswick,Atlantic
+CUST-0609,Harper Hill,Small Business,Edmonton,Alberta,West
+CUST-0610,Chloe Wilson,Consumer,St. John's,Newfoundland And Labrador,Atlantic
+CUST-0611,Scarlett Nguyen,Small Business,Winnipeg,Manitoba,Prairies
+CUST-0612,Jackson Foster,Consumer,Toronto,Ontario,Central
+CUST-0613,William Moore,Small Business,Saskatoon,Saskatchewan,Prairies
+CUST-0614,Logan Anderson,Consumer,Edmonton,Alberta,West
+CUST-0615,Sophia Campbell,Consumer,Mississauga,Ontario,Central
+CUST-0616,Benjamin Scott,Consumer,Saskatoon,Saskatchewan,Prairies
+CUST-0617,James Martin,Home Office,Victoria,British Columbia,West
+CUST-0618,Owen King,Small Business,Hamilton,Ontario,Central
+CUST-0619,Ethan Davis,Corporate,Mississauga,Ontario,Central
+CUST-0620,Noah Edwards,Small Business,Fredericton,New Brunswick,Atlantic

@@ -1,0 +1,7 @@
+{
+  "initial_rows": 5535,
+  "rows_removed_missing_keys_or_invalid_dates": 20,
+  "duplicate_order_product_rows_removed": 24,
+  "rows_removed_non_positive_values": 0,
+  "final_rows": 5491
+}
