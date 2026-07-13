@@ -1,6 +1,6 @@
-﻿# Retail Sales Analytics
+# Retail Sales Analytics
 
-An end-to-end retail analytics portfolio project built with synthetic Canadian retail transaction data, MySQL-ready SQL scripts, normalized CSV files, and dashboard planning assets for Power BI and Tableau.
+An end-to-end retail analytics portfolio project built with synthetic Canadian retail transaction data, MySQL-ready SQL scripts, normalized CSV files, real MySQL Workbench execution results, and final dashboard assets for Power BI and Tableau.
 
 ## Project goals
 
@@ -62,7 +62,9 @@ Retail-Sales-Analytics/
 |       |-- top_customers_result.png
 |       `-- discount_analysis_result.png
 |-- powerbi/
-|   `-- README.md
+|   |-- README.md
+|   |-- dashboard_blueprint.md
+|   `-- measures.dax
 |-- tableau/
 |   `-- README.md
 |-- scripts/
@@ -72,7 +74,12 @@ Retail-Sales-Analytics/
 |   |-- 01_create_database.sql
 |   |-- 02_create_tables.sql
 |   |-- 03_data_validation.sql
+|   |-- 03_validation_table_counts.sql
+|   |-- 03_validation_integrity_checks.sql
 |   |-- 04_business_analysis.sql
+|   |-- 04_overall_kpis.sql
+|   |-- 04_monthly_sales_trend.sql
+|   |-- 04_category_performance.sql
 |   `-- 05_create_views.sql
 |-- RetailAnalystics.sql
 `-- README.md
@@ -197,11 +204,11 @@ The SQL scripts were executed successfully in MySQL Workbench after importing al
 
 ## Dashboard assets
 
-The `images/` folder contains three portfolio-style PNG previews generated from the cleaned dataset:
+The `images/` folder contains the final Power BI dashboard screenshots:
 
-- `dashboard_overview.png`
-- `product_analysis.png`
-- `customer_analysis.png`
+- `dashboard_overview.png` -> `Executive Overview`
+- `product_analysis.png` -> `Product Performance`
+- `customer_analysis.png` -> `Customer and Region`
 
 The `images/workbench_results/` folder contains MySQL Workbench screenshots of the executed SQL analysis:
 
@@ -214,7 +221,27 @@ The `images/workbench_results/` folder contains MySQL Workbench screenshots of t
 - `top_customers_result.png`
 - `discount_analysis_result.png`
 
-The `powerbi/` and `tableau/` folders contain build guides for creating the final desktop dashboards. Save your authored `.pbix` and `.twbx` files there after connecting to MySQL.
+The `powerbi/` and `tableau/` folders contain build guides for creating the final desktop dashboards. The `powerbi/` folder also includes reusable DAX measures and the dashboard blueprint used to build the report pages.
+
+## Power BI dashboard pages
+
+### Page 1: Executive Overview
+
+This page answers the big-picture business questions with KPI cards, monthly revenue and profit trend lines, discount impact analysis, and revenue by sales channel.
+
+![Executive Overview Power BI Page](images/dashboard_overview.png)
+
+### Page 2: Product Performance
+
+This page highlights category performance, top products by revenue, products to promote, and loss-making products that should be reviewed.
+
+![Product Performance Power BI Page](images/product_analysis.png)
+
+### Page 3: Customer and Region
+
+This page focuses on regional revenue and profit, customer segment mix, the strongest customers by revenue, and a region-by-segment revenue matrix.
+
+![Customer and Region Power BI Page](images/customer_analysis.png)
 
 ## Key insights from the executed analysis
 
@@ -233,3 +260,5 @@ If you want to regenerate the synthetic project assets locally:
 python scripts\generate_data.py
 powershell -ExecutionPolicy Bypass -File scripts\generate_dashboard_images.ps1
 ```
+
+

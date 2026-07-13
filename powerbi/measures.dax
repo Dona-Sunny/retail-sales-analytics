@@ -1,0 +1,47 @@
+﻿Total Revenue =
+SUM ( retail_sales_view[net_sales] )
+
+Total Profit =
+SUM ( retail_sales_view[profit] )
+
+Units Sold =
+SUM ( retail_sales_view[quantity] )
+
+Total Orders =
+DISTINCTCOUNT ( retail_sales_view[order_id] )
+
+Total Customers =
+DISTINCTCOUNT ( retail_sales_view[customer_id] )
+
+Average Order Value =
+DIVIDE ( [Total Revenue], [Total Orders] )
+
+Profit Margin % =
+DIVIDE ( [Total Profit], [Total Revenue] )
+
+Average Discount % =
+AVERAGE ( retail_sales_view[discount] )
+
+Total Discount Amount =
+SUM ( retail_sales_view[discount_amount] )
+
+Average Units Per Order =
+DIVIDE ( [Units Sold], [Total Orders] )
+
+Loss Making Products Count =
+COUNTROWS (
+    FILTER (
+        VALUES ( retail_sales_view[product_name] ),
+        [Total Profit] < 0
+    )
+)
+
+-- Create this as a calculated column, not a measure:
+-- Discount Group =
+-- SWITCH (
+--     TRUE (),
+--     retail_sales_view[discount] = 0, "No Discount",
+--     retail_sales_view[discount] <= 0.10, "1-10%",
+--     retail_sales_view[discount] <= 0.20, "11-20%",
+--     "Above 20%"
+-- )
