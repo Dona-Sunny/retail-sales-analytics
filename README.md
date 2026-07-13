@@ -21,6 +21,7 @@ This project answers core retail business questions:
 - Customers: `615`
 - Products: `120`
 - Orders: `2,598`
+- Order items: `5,491`
 - Date range: `2024-01-01` to `2025-12-31`
 - Total revenue: `$2,427,613.69`
 - Total profit: `$847,439.09`
@@ -52,6 +53,7 @@ Retail-Sales-Analytics/
 |   |-- product_analysis.png
 |   |-- customer_analysis.png
 |   `-- workbench_results/
+|       |-- validation_counts_result.png
 |       |-- kpi_query_result.png
 |       |-- monthly_sales_trend_result.png
 |       |-- category_performance_result.png
@@ -130,6 +132,8 @@ The SQL scripts were executed successfully in MySQL Workbench after importing al
 - `orders`: `2,598`
 - `order_items`: `5,491`
 
+![Validation Counts Result](images/workbench_results/validation_counts_result.png)
+
 ### KPI query result
 
 - Total orders: `2,598`
@@ -198,6 +202,7 @@ The `images/` folder contains three portfolio-style PNG previews generated from 
 
 The `images/workbench_results/` folder contains MySQL Workbench screenshots of the executed SQL analysis:
 
+- `validation_counts_result.png`
 - `kpi_query_result.png`
 - `monthly_sales_trend_result.png`
 - `category_performance_result.png`

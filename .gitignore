@@ -1,6 +1,6 @@
-__pycache__/
+﻿__pycache__/
 *.pyc
 *.log
 Thumbs.db
 Desktop.ini
-
+images/_review/
