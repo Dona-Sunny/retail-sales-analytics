@@ -54,7 +54,10 @@ Retail-Sales-Analytics/
 |   `-- workbench_results/
 |       |-- kpi_query_result.png
 |       |-- monthly_sales_trend_result.png
-|       `-- category_performance_result.png
+|       |-- category_performance_result.png
+|       |-- regional_performance_result.png
+|       |-- top_customers_result.png
+|       `-- discount_analysis_result.png
 |-- powerbi/
 |   `-- README.md
 |-- tableau/
@@ -118,7 +121,7 @@ Customers 1 --- * Orders 1 --- * Order_Items * --- 1 Products
 
 ## Executed SQL results
 
-The SQL scripts were executed successfully in MySQL Workbench on `2026-07-12` after importing all four CSV files.
+The SQL scripts were executed successfully in MySQL Workbench after importing all four CSV files, and the screenshots below show the real query outputs.
 
 ### Validation summary
 
@@ -156,6 +159,35 @@ The SQL scripts were executed successfully in MySQL Workbench on `2026-07-12` af
 
 ![Category Performance Result](images/workbench_results/category_performance_result.png)
 
+### Regional performance
+
+- Top region: `Central`
+- Central orders: `727`
+- Central revenue: `$678,956.39`
+- Central profit: `$229,195.60`
+- Runner-up region: `West` with `$641,092.78` revenue
+
+![Regional Performance Result](images/workbench_results/regional_performance_result.png)
+
+### Top customers
+
+- Top customer by revenue: `Layla Lee`
+- Customer segment: `Corporate`
+- Total orders: `9`
+- Customer revenue: `$13,149.82`
+- Customer profit: `$2,378.72`
+
+![Top Customers Result](images/workbench_results/top_customers_result.png)
+
+### Discount analysis
+
+- Highest revenue band: `1-10%`
+- Revenue from `1-10%` discounts: `$1,189,788.11`
+- Profit margin for `1-10%` discounts: `36.37%`
+- `Above 20%` discounts are loss-making at `-20.17%` profit margin
+
+![Discount Analysis Result](images/workbench_results/discount_analysis_result.png)
+
 ## Dashboard assets
 
 The `images/` folder contains three portfolio-style PNG previews generated from the cleaned dataset:
@@ -169,16 +201,20 @@ The `images/workbench_results/` folder contains MySQL Workbench screenshots of t
 - `kpi_query_result.png`
 - `monthly_sales_trend_result.png`
 - `category_performance_result.png`
+- `regional_performance_result.png`
+- `top_customers_result.png`
+- `discount_analysis_result.png`
 
 The `powerbi/` and `tableau/` folders contain build guides for creating the final desktop dashboards. Save your authored `.pbix` and `.twbx` files there after connecting to MySQL.
 
-## Key insights from the generated dataset
+## Key insights from the executed analysis
 
 - Revenue is concentrated in `Furniture`, which is also the strongest category for total profit.
 - `2025-02` is the strongest month in the executed monthly trend query.
-- `Central` is the top-performing region, making it a good candidate for regional drilldowns in dashboards.
-- A small set of products is loss-making after discounting, making the discount analysis and product review queries useful immediately.
-- The dataset includes more than two full years of order history, so month-over-month and year-over-year trend analysis works well.
+- `Central` leads all regions in both revenue and profit, with `West` close behind.
+- The `1-10%` discount band drives the most revenue while still maintaining a healthy margin.
+- Discounts above `20%` push profitability negative, so they should be reviewed carefully.
+- The top-customer list includes a healthy mix of `Corporate`, `Consumer`, `Home Office`, and `Small Business` segments.
 
 ## Rebuild the assets
 
